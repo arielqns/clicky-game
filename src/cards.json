@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Donald Trump",
-    "image": "https://www.thewrap.com/wp-content/uploads/2017/07/Trump-showtime.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJOYtxPxLc-OjteuDpXmYhCEzb8ZlomGMaygty62yLLArY8WT&s",
     "count": 0
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "id": 3,
-    "name": "Bernie Sanders",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/61CSIa763DL._SX402_.jpg",
+    "name": "Hillary Clinton",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0G19jIsfaIbWfM80lbQFTO7Ft80VGV0t77RWGsorR4hC8zkU83w&s",
     "count": 0
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": 8,
     "name": "Don Jr.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYLILdR0YJS1bbo0IUVFPx3ss2gXeBJiHk346oZhGbvjwMTaf&s",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO8TjINgFnAPwnhVtZt6Z5yjceBudgo9qGCi5dTs5zHrFFG5Re&s",
     "count": 0
   },
   {
